@@ -2,10 +2,15 @@
 
 Welcome to **Presentia Store**! This project showcases an e-commerce platform featuring a modern design and seamless user experience.  
 
+## 👨‍💻 About the Team  
+
 ---
 
-## 👨‍💻 About the Developers  
-Hasan, Rami, Ahmad, Belal, Ghofran  
+- **Hasan Mansour**: Scrum Master  
+- **Ahmad Tarawnah**: Product Owner  
+- **Ghofran Hijazi**: Developer  
+- **Rami Abdelhamid**: Developer  
+- **Belal Kahaleh**: QA Specialist  
 
 ---
 
