@@ -53,7 +53,7 @@ Explore the wireframes and mockups for the project design on Figma:
 
 ## 🖼️ Project Preview  
 Below are some screenshots from the portfolio project:
-
+https://drive.google.com/file/d/1Y9KN98LUH4YPxtr5QLcd2phzBvbP-7yb/view?usp=drive_link
 ### 📸 Preview 1  
 ![Preview 1](https://drive.google.comuc?export=view&id=1Y9KN98LUH4YPxtr5QLcd2phzBvbP-7yb)
 
