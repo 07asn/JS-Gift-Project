@@ -51,9 +51,15 @@ Explore the wireframes and mockups for the project design on Figma:
 
 ---
 
+## 📋 Trello Board  
+Track project progress and tasks on Trello:  
+👉 [Trello Board](https://trello.com/b/yRNoKGDm/project-js)
+
+---
+
 ## 🖼️ Project Preview  
 Below are some screenshots from the portfolio project:
-https://drive.google.com/file/d/1Y9KN98LUH4YPxtr5QLcd2phzBvbP-7yb/view?usp=drive_link
+
 ### 📸 Preview 1  
 ![Preview 1](https://drive.google.com/uc?export=view&id=1Y9KN98LUH4YPxtr5QLcd2phzBvbP-7yb)
 
@@ -68,9 +74,3 @@ https://drive.google.com/file/d/1Y9KN98LUH4YPxtr5QLcd2phzBvbP-7yb/view?usp=drive
 
 ### 📸 Preview 5  
 ![Preview 5](https://drive.google.com/uc?export=view&id=1DcCwqMof-NO8KQG2O7rxbPw5xG2E-2W-)
-
----
-
-## 📋 Trello Board  
-Track project progress and tasks on Trello:  
-👉 [Trello Board](https://trello.com/b/yRNoKGDm/project-js)
